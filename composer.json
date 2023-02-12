@@ -1,0 +1,16 @@
+{
+  "name": "andersnoren/wilson",
+  "description": "Wilson is a clean, simple and responsive theme for personal sites and blogs",
+  "license": "GPL-2.0-or-later",
+  "type": "wordpress-theme",
+  "authors": [
+    {
+      "name": "Anders Norén",
+      "email": "anders@andersnoren.se"
+    },
+    {
+      "name": "Wasseem Khayrattee",
+      "email": "viagithub.mailbox@wk.contact"
+    }
+  ]
+}
